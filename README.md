@@ -1,7 +1,7 @@
 # Explicación del Programa Cuenta Bancaria en C#
 
 # Características principales
-1. #  Clase CuentaBancaria
+   #  Clase CuentaBancaria
     Atributos privados: titular (nombre del titular), saldo (cantidad de dinero disponible) y idCuenta (identificador único para cada cuenta).
     Atributo estático contadorCuentas: Se usa para asignar un número único a cada cuenta creada.
     Métodos:
